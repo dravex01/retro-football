@@ -107,5 +107,5 @@ Feel free to open issues or submit pull requests to improve gameplay, AI behavio
 
 ## License
 
-MIT License. See `LICENSE` for details.
+MIT License.
 
